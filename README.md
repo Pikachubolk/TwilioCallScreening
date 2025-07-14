@@ -71,6 +71,7 @@ This project implements an AI-powered call screening system using Twilio for cal
    Use the generated URL for your webhook endpoints.
 
 ### 3. Audio Files Setup
+⚠️ Warning: These audio files are not included in the repository
 
 1. **Pre-recorded messages in the `audio/` directory:**
    - `greet.mp3` - Initial greeting and request for information

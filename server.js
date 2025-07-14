@@ -730,7 +730,7 @@ async function generateFishAudioTTS(text) {
       chunkLength: 200,
       normalize: true,
       latency: "balanced",
-      referenceId: "dc21b4b6e8f04dfb99b9212985bc3515", // Re-enabled with working MP3 format
+      referenceId: "dc21b4b6e8f04dfb99b9212985bc3515",
     });
 
     const headers = { 

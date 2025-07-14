@@ -5,7 +5,7 @@ const path = require('path');
 // Audio cutting configuration
 const HOLD_DIR = path.join(__dirname, 'hold');
 const TARGET_DURATION = '35:18'; // 35 minutes 18 seconds
-const OUTPUT_FILENAME = 'hold-music-35min.mp3';
+const OUTPUT_FILENAME = 'hold-music.mp3';
 
 async function cutAudioFile() {
   try {
